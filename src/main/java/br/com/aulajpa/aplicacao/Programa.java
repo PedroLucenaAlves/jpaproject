@@ -11,6 +11,7 @@ public class Programa {
 	public static void main(String[] args) {
 		
 
+		
 		//SALVANDO OS DADOS NO BANCO
 																		//esse e o nome que demos no arquivo persitence.xml
 		EntityManagerFactory emf = Persistence.createEntityManagerFactory("exemplo-jpa");
